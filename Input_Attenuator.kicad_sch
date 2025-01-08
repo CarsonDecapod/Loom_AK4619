@@ -1,0 +1,1550 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "696bd3d1-f528-46b8-b43d-339894729cd9")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Decapod_Devices:C_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Rating" "25V/10%/C0G"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Decapod_Devices:R_Small_US"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0.762 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R_Small_US"
+				(at 0.762 -1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, small US symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Rating" "100mW/1%/Thin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "r resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Small_US_1_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.016)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.016)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Decapod_Devices:TL074"
+			(pin_names
+				(offset 0.127)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 7.62 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TL074"
+				(at -1.778 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+				(at 1.27 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl071.pdf"
+				(at 2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Low-Power, Quad-Operational Amplifiers, TSSOP-14"
+				(at 1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "TL074H"
+				(at 6.35 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "quad opamp analog front end"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TSSOP*4.4x5mm*P0.65mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TL074_1_1"
+				(polyline
+					(pts
+						(xy -3.81 -5.08) (xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TL074_2_1"
+				(polyline
+					(pts
+						(xy -3.81 -5.08) (xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TL074_3_1"
+				(polyline
+					(pts
+						(xy -3.81 -5.08) (xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TL074_4_1"
+				(polyline
+					(pts
+						(xy -3.81 -5.08) (xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TL074_5_1"
+				(polyline
+					(pts
+						(xy -2.54 5.08) (xy 7.62 0) (xy -2.54 -5.08) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 3.81)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 3.81)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 148.59 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5779ad27-3e4e-4502-9b66-ab89c91f05de")
+	)
+	(junction
+		(at 128.27 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac5a8a21-b443-42a3-b095-5d956857b1ef")
+	)
+	(wire
+		(pts
+			(xy 140.97 74.93) (xy 148.59 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16087ab1-68c5-4369-8984-6bb89d13b153")
+	)
+	(wire
+		(pts
+			(xy 128.27 92.71) (xy 130.81 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b76d2b2-63d9-4c09-8b6c-7612fb9b4d1d")
+	)
+	(wire
+		(pts
+			(xy 156.21 86.36) (xy 162.56 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "297fa444-c60b-471a-85e3-64739e983af6")
+	)
+	(wire
+		(pts
+			(xy 111.76 86.36) (xy 120.65 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d3f66cd-f2c6-4700-8545-a752c229d5fb")
+	)
+	(wire
+		(pts
+			(xy 148.59 95.25) (xy 146.05 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "394d4ba6-4cb1-45ef-a11c-966c3accac42")
+	)
+	(wire
+		(pts
+			(xy 148.59 74.93) (xy 148.59 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b13b61d-47c9-4005-b254-41879b1ca1c0")
+	)
+	(wire
+		(pts
+			(xy 128.27 74.93) (xy 128.27 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4566520a-dcef-42d1-b5f0-05f278343dd8")
+	)
+	(wire
+		(pts
+			(xy 128.27 86.36) (xy 135.89 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef9881e-47c1-426b-ad92-70d4bd165273")
+	)
+	(wire
+		(pts
+			(xy 140.97 86.36) (xy 148.59 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "822fbecf-f69a-40f0-ad01-bbf2b971223b")
+	)
+	(wire
+		(pts
+			(xy 125.73 86.36) (xy 128.27 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89631115-5668-4645-95db-67f7bef21541")
+	)
+	(wire
+		(pts
+			(xy 128.27 86.36) (xy 128.27 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bdbc216-252a-4733-91e2-b51fa273ab06")
+	)
+	(wire
+		(pts
+			(xy 148.59 86.36) (xy 151.13 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97cd5d43-7052-41f1-8a0c-4d410db6a04f")
+	)
+	(wire
+		(pts
+			(xy 135.89 74.93) (xy 128.27 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa79884c-95a3-4fcd-bb78-c015f4ce5dee")
+	)
+	(wire
+		(pts
+			(xy 148.59 86.36) (xy 148.59 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f663eff3-ec15-482e-a925-edc9b3c43c8b")
+	)
+	(text "Attenuates, Offsets, Inverts, and Protects\nInput: +10v to -10v\nOutput: 0v to +3.3v\nOutput Limited to one diode drop of digital rails (-0.3v to +3.6v)"
+		(exclude_from_sim no)
+		(at 16.002 30.48 0)
+		(effects
+			(font
+				(size 1.7 1.7)
+			)
+			(justify left)
+		)
+		(uuid "73499e91-fee0-4cf9-a946-b3c06f9ac0ea")
+	)
+	(text "Input Attenuator"
+		(exclude_from_sim no)
+		(at 15.494 20.32 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "9acc20cf-ef8f-4c21-b614-6317e53be587")
+	)
+	(global_label "Bias_VREF"
+		(shape input)
+		(at 130.81 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74e0c1b8-d8f8-4b74-9f38-7402c23275c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.2091 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(hierarchical_label "Out"
+		(shape output)
+		(at 162.56 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "178df240-e64a-42fa-a207-576ad206c4e3")
+	)
+	(hierarchical_label "In"
+		(shape input)
+		(at 111.76 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc089f98-ca76-4abb-9ae1-e1cc1bb795ba")
+	)
+	(symbol
+		(lib_id "Decapod_Devices:TL074")
+		(at 137.16 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3072a1df-efb0-44fb-a2ef-8526f996fbec")
+		(property "Reference" "U3"
+			(at 139.7 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "OPA1679"
+			(at 137.668 95.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+			(at 138.43 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Quad-Operational Amplifiers, TSSOP-14"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "OPA1679"
+			(at 143.51 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "16ba0d7b-203f-444d-b7da-57156c358f60")
+		)
+		(pin "3"
+			(uuid "66e2c70d-ef16-431e-9106-9867c6d4f1d8")
+		)
+		(pin "6"
+			(uuid "6ceaf3ac-d808-417a-bb15-77316affd99d")
+		)
+		(pin "9"
+			(uuid "82e90b27-96e5-4375-be29-29b1a0cbe0e7")
+		)
+		(pin "1"
+			(uuid "622fc4a4-b998-42b1-9a1b-ad06360e1850")
+		)
+		(pin "12"
+			(uuid "ccbbae77-d7ff-474e-8b57-ea6491e6fca0")
+		)
+		(pin "2"
+			(uuid "1149e864-6ccd-44e9-bcfb-f6ebd623165d")
+		)
+		(pin "10"
+			(uuid "305ce9d4-1c58-4018-bc52-1945f7f21744")
+		)
+		(pin "7"
+			(uuid "40f6fc9e-e008-4858-b19f-f42d5e6e1f8f")
+		)
+		(pin "11"
+			(uuid "2880888f-7eaa-44c4-89b8-638a6b21a351")
+		)
+		(pin "13"
+			(uuid "995d07a6-7675-4305-9ac5-9d885a402594")
+		)
+		(pin "14"
+			(uuid "465795a7-ddce-4e94-a06b-6b475402118e")
+		)
+		(pin "5"
+			(uuid "d2f501f2-2d90-4810-a031-fcc3ba1654e4")
+		)
+		(pin "8"
+			(uuid "67154c29-547a-4efa-bac1-13cecccd7ed7")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/07e0173a-a5fb-433c-8de0-d1c7c5e3805d"
+					(reference "U3")
+					(unit 4)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/275a6de3-fa3e-4d12-93f1-4f0e2886d9ac"
+					(reference "U4")
+					(unit 2)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/30e96c31-384a-457f-9c91-1d7bf222586a"
+					(reference "U3")
+					(unit 3)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/31293dca-5e73-4baa-9176-aa587f10c922"
+					(reference "U4")
+					(unit 3)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/714f8969-c269-4634-9475-9861026889d2"
+					(reference "U4")
+					(unit 4)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/9994fe48-9646-465e-a58a-318529bd507a"
+					(reference "U3")
+					(unit 2)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f78616cc-28e9-448f-b371-031c4e704b59"
+					(reference "U3")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f9ecf2da-7d6c-44be-9e69-6fe84bf0a529"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Decapod_Devices:C_Small")
+		(at 138.43 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37e16807-9240-40d0-afc1-7d4f31f4e5d5")
+		(property "Reference" "C601"
+			(at 138.4363 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10p"
+			(at 138.4363 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "winterbloom:C_0603_HandSolder"
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rating" "25V/10%/C0G"
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1634"
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d265dd2c-2018-4675-bc59-866bff47ac6f")
+		)
+		(pin "1"
+			(uuid "92598955-fed1-4aa8-9416-f6e36f6bc7d0")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/07e0173a-a5fb-433c-8de0-d1c7c5e3805d"
+					(reference "C601")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/275a6de3-fa3e-4d12-93f1-4f0e2886d9ac"
+					(reference "C801")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/30e96c31-384a-457f-9c91-1d7bf222586a"
+					(reference "C501")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/31293dca-5e73-4baa-9176-aa587f10c922"
+					(reference "C901")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/714f8969-c269-4634-9475-9861026889d2"
+					(reference "C1001")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/9994fe48-9646-465e-a58a-318529bd507a"
+					(reference "C401")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f78616cc-28e9-448f-b371-031c4e704b59"
+					(reference "C301")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f9ecf2da-7d6c-44be-9e69-6fe84bf0a529"
+					(reference "C701")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Decapod_Devices:R_Small_US")
+		(at 153.67 86.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b107a1d-e643-4f6e-bf72-cbf9cbcb02cf")
+		(property "Reference" "R603"
+			(at 153.67 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 153.67 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "winterbloom:R_0603_HandSolder"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rating" "100mW/1%/Thin"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "985bced1-c192-4faa-8d16-a2ac423c0e96")
+		)
+		(pin "1"
+			(uuid "f34d7cef-b70c-40df-a518-b97d1a2afd1a")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/07e0173a-a5fb-433c-8de0-d1c7c5e3805d"
+					(reference "R603")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/275a6de3-fa3e-4d12-93f1-4f0e2886d9ac"
+					(reference "R803")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/30e96c31-384a-457f-9c91-1d7bf222586a"
+					(reference "R503")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/31293dca-5e73-4baa-9176-aa587f10c922"
+					(reference "R903")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/714f8969-c269-4634-9475-9861026889d2"
+					(reference "R1003")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/9994fe48-9646-465e-a58a-318529bd507a"
+					(reference "R403")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f78616cc-28e9-448f-b371-031c4e704b59"
+					(reference "R303")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f9ecf2da-7d6c-44be-9e69-6fe84bf0a529"
+					(reference "R703")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Decapod_Devices:R_Small_US")
+		(at 138.43 86.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2bee234-1485-4df2-9042-9f145059865c")
+		(property "Reference" "R602"
+			(at 138.43 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k"
+			(at 138.43 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "winterbloom:R_0603_HandSolder"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rating" "100mW/1%/Thin"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e1d8c41b-161f-4536-9941-d0e501e883ea")
+		)
+		(pin "1"
+			(uuid "8e6cf773-ac23-43d9-8061-264fee5b06e1")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/07e0173a-a5fb-433c-8de0-d1c7c5e3805d"
+					(reference "R602")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/275a6de3-fa3e-4d12-93f1-4f0e2886d9ac"
+					(reference "R802")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/30e96c31-384a-457f-9c91-1d7bf222586a"
+					(reference "R502")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/31293dca-5e73-4baa-9176-aa587f10c922"
+					(reference "R902")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/714f8969-c269-4634-9475-9861026889d2"
+					(reference "R1002")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/9994fe48-9646-465e-a58a-318529bd507a"
+					(reference "R402")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f78616cc-28e9-448f-b371-031c4e704b59"
+					(reference "R302")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f9ecf2da-7d6c-44be-9e69-6fe84bf0a529"
+					(reference "R702")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Decapod_Devices:R_Small_US")
+		(at 123.19 86.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a63c5e9a-9c2e-43f6-8e23-bc8c358ae23c")
+		(property "Reference" "R601"
+			(at 123.19 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "120k"
+			(at 123.19 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "winterbloom:R_0603_HandSolder"
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rating" "100mW/1%/Thin"
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "12f8d353-d36e-4db9-9bae-c3c7d517cd33")
+		)
+		(pin "1"
+			(uuid "d099deb1-8d91-4832-b8e7-366f66d1d272")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/07e0173a-a5fb-433c-8de0-d1c7c5e3805d"
+					(reference "R601")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/275a6de3-fa3e-4d12-93f1-4f0e2886d9ac"
+					(reference "R801")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/30e96c31-384a-457f-9c91-1d7bf222586a"
+					(reference "R501")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/31293dca-5e73-4baa-9176-aa587f10c922"
+					(reference "R901")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/714f8969-c269-4634-9475-9861026889d2"
+					(reference "R1001")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/9994fe48-9646-465e-a58a-318529bd507a"
+					(reference "R401")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f78616cc-28e9-448f-b371-031c4e704b59"
+					(reference "R301")
+					(unit 1)
+				)
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd/f9ecf2da-7d6c-44be-9e69-6fe84bf0a529"
+					(reference "R701")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

@@ -1,0 +1,1963 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "331c778c-80c9-4404-b1f3-29755442683d")
+	(paper "USLedger")
+	(title_block
+		(company "Decapod Devices")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 82.55 81.28) (xy 85.09 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bef46cb-f1ed-4d50-9750-eb877c4508d8")
+	)
+	(wire
+		(pts
+			(xy 82.55 102.87) (xy 85.09 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "208b53ed-577b-4c9f-99cd-c58b4207c39f")
+	)
+	(wire
+		(pts
+			(xy 359.41 125.73) (xy 361.95 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23c4ef85-c548-427f-90e1-d97add1df32d")
+	)
+	(wire
+		(pts
+			(xy 82.55 125.73) (xy 85.09 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a364b3d-62ff-4f5f-919e-4c3f1d8db12f")
+	)
+	(wire
+		(pts
+			(xy 172.72 102.87) (xy 175.26 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2af49c3e-3245-4661-9de7-620769c868e4")
+	)
+	(wire
+		(pts
+			(xy 255.27 58.42) (xy 257.81 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb67bf9-1519-4716-a68e-8a22776dbd77")
+	)
+	(wire
+		(pts
+			(xy 139.7 81.28) (xy 142.24 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cb36dcc-e07b-4ba0-8ec5-7689df52635e")
+	)
+	(wire
+		(pts
+			(xy 327.66 58.42) (xy 330.2 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "488a2307-d754-4217-ba1e-b8e0a7be3127")
+	)
+	(wire
+		(pts
+			(xy 49.53 102.87) (xy 52.07 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b2988f3-2853-49a9-97e5-45300e940310")
+	)
+	(wire
+		(pts
+			(xy 139.7 58.42) (xy 142.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f617b42-ddb8-4b4e-922b-dbd08e5184ad")
+	)
+	(wire
+		(pts
+			(xy 359.41 102.87) (xy 361.95 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6793c6c8-7fea-4e86-9105-8c0d78bc9d8e")
+	)
+	(wire
+		(pts
+			(xy 172.72 81.28) (xy 175.26 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68e28b22-1f69-4c14-897e-7e6a32f6e6c2")
+	)
+	(wire
+		(pts
+			(xy 49.53 125.73) (xy 52.07 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "793de367-ba6d-42f9-9128-c30c0b6ab481")
+	)
+	(wire
+		(pts
+			(xy 359.41 58.42) (xy 361.95 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e0f0b45-092c-495f-b677-caf00fd795d1")
+	)
+	(wire
+		(pts
+			(xy 255.27 102.87) (xy 257.81 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d739946-1d18-4d3a-85b8-5f5ab6838ee7")
+	)
+	(wire
+		(pts
+			(xy 255.27 81.28) (xy 257.81 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909f144f-417b-439b-979d-e1ec3f775c5d")
+	)
+	(wire
+		(pts
+			(xy 255.27 125.73) (xy 257.81 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f436f2e-0412-49a0-8386-caff5fe3e53e")
+	)
+	(wire
+		(pts
+			(xy 139.7 102.87) (xy 142.24 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a11b51bd-a034-452f-b7ae-e4c924c41111")
+	)
+	(wire
+		(pts
+			(xy 327.66 102.87) (xy 330.2 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4541092-592e-45c8-87b2-a68c5d438f7e")
+	)
+	(wire
+		(pts
+			(xy 49.53 81.28) (xy 52.07 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a671ebea-aa0a-40d9-93d5-b5338e2c8314")
+	)
+	(wire
+		(pts
+			(xy 287.02 81.28) (xy 289.56 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b20cfe06-9a93-4592-9a03-745e222a29b4")
+	)
+	(wire
+		(pts
+			(xy 327.66 81.28) (xy 330.2 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf087d69-f28b-4176-a93f-f35598c39048")
+	)
+	(wire
+		(pts
+			(xy 287.02 125.73) (xy 289.56 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1667d3e-d5f1-4e31-81c0-88875e3d7b6b")
+	)
+	(wire
+		(pts
+			(xy 82.55 58.42) (xy 85.09 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2ccf1ab-2417-43b0-8b55-cb0d163bc116")
+	)
+	(wire
+		(pts
+			(xy 172.72 58.42) (xy 175.26 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2e1f6c8-d8e1-454e-a26b-adf023f3b86d")
+	)
+	(wire
+		(pts
+			(xy 172.72 125.73) (xy 175.26 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3e4c6e7-638e-4971-ab2f-92a687f09533")
+	)
+	(wire
+		(pts
+			(xy 327.66 125.73) (xy 330.2 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc31d84c-053b-49e8-8db9-6840b9e9d707")
+	)
+	(wire
+		(pts
+			(xy 287.02 102.87) (xy 289.56 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d613d61e-26d2-4bca-a0fa-c96eb56e8264")
+	)
+	(wire
+		(pts
+			(xy 359.41 81.28) (xy 361.95 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3034511-c775-4f7c-bb51-597add9ec9d0")
+	)
+	(wire
+		(pts
+			(xy 287.02 58.42) (xy 289.56 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed14adc0-8689-4d81-8e95-9a8844613135")
+	)
+	(wire
+		(pts
+			(xy 49.53 58.42) (xy 52.07 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed94e03e-c46f-436a-8011-83c83ce9d548")
+	)
+	(wire
+		(pts
+			(xy 139.7 125.73) (xy 142.24 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f40348a1-67fc-4337-8bf7-1633626c32cc")
+	)
+	(global_label "Codec2_In2"
+		(shape input)
+		(at 175.26 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a9b2ae6-a10a-4588-8688-5a664050688c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.1308 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out1"
+		(shape input)
+		(at 289.56 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0c4d77ed-d00b-409b-8021-56d455534d51")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 296.9599 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_In3"
+		(shape input)
+		(at 85.09 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2794201d-a64a-46da-a11e-f4d12d3a43a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.9608 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_Out1"
+		(shape input)
+		(at 327.66 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "31907351-f880-4ec0-8416-b86b1c5e7c49")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.3378 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_In1"
+		(shape input)
+		(at 85.09 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "383a6c57-7650-41d9-82ad-acd559667a70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.9608 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In6"
+		(shape input)
+		(at 139.7 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "42ca1514-3db4-4f9b-99c2-1a96cac48eaf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.7515 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out8"
+		(shape input)
+		(at 361.95 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "69db65d2-a050-4ead-a105-f26822f846c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 369.3499 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out5"
+		(shape input)
+		(at 361.95 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b83f0b0-e87f-4e6a-b70e-81b5852dbca4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 369.3499 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_In3"
+		(shape input)
+		(at 175.26 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6fe5a4cc-8f27-4a5d-abb7-93a2fe2cdf96")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.1308 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In2"
+		(shape input)
+		(at 49.53 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6fe790a3-cf72-40b2-9b10-3cd6229dace2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.5815 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out7"
+		(shape input)
+		(at 361.95 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "742c1680-72e3-4ff9-a89e-3e2a0f7c285c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 369.3499 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In3"
+		(shape input)
+		(at 49.53 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "783e699d-fa6f-46d0-aea8-db6702a0856c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.5815 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In4"
+		(shape input)
+		(at 49.53 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8160816e-f31e-4754-8fbc-dfb0e0b2783d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.5815 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In8"
+		(shape input)
+		(at 139.7 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "917da239-fa55-4a7f-a1aa-a0952a557fb3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.7515 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out6"
+		(shape input)
+		(at 361.95 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9246ccac-9287-46b5-8d34-b940295a1295")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 369.3499 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_In4"
+		(shape input)
+		(at 85.09 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9750aa90-37c4-41d9-9839-88333337ad59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.9608 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_Out2"
+		(shape input)
+		(at 327.66 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "978d59f3-1591-443a-a41e-6ce6dbbb79d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.3378 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_Out3"
+		(shape input)
+		(at 327.66 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a04f5ea9-b572-4240-a2a1-ed84481551fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.3378 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_Out4"
+		(shape input)
+		(at 255.27 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a99e00be-523c-4409-b25d-d2954c69bc4d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.9478 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_Out3"
+		(shape input)
+		(at 255.27 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa82b935-701e-4e50-9b5d-35288f241096")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.9478 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In5"
+		(shape input)
+		(at 139.7 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4291071-778b-4716-b01b-baad32a5f4d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.7515 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_Out4"
+		(shape input)
+		(at 327.66 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b777b77f-0b8d-421d-9187-4ea3a38a3c65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.3378 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out4"
+		(shape input)
+		(at 289.56 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b86beb9c-bd71-4680-80aa-b5e1302850f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 296.9599 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In1"
+		(shape input)
+		(at 49.53 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bd8787ad-6854-4415-a608-4d9f9d397d38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.5815 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_Out1"
+		(shape input)
+		(at 255.27 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c1eb4c77-517d-48a1-bec8-a1677e4b730f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.9478 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out3"
+		(shape input)
+		(at 289.56 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5d9911c-27db-411f-9937-7614d083e9aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 296.9599 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_Out2"
+		(shape input)
+		(at 255.27 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c7f3b98f-3fdb-4176-95c1-69a00886fdd0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 239.9478 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_In4"
+		(shape input)
+		(at 175.26 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cf2f97dd-6756-4241-b13d-1261dd4edad3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.1308 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "In7"
+		(shape input)
+		(at 139.7 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d21c7362-4004-4558-ac68-5cbb8ec0dc91")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.7515 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Out2"
+		(shape input)
+		(at 289.56 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d34ed23b-e20b-42cb-bca0-e4747b0825c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 296.9599 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec2_In1"
+		(shape input)
+		(at 175.26 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d458c98a-e53e-434a-9b72-87266f6231ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.1308 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Codec1_In2"
+		(shape input)
+		(at 85.09 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dd4c0c6b-7012-441a-ac0b-b2d5a2047902")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.9608 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(sheet
+		(at 257.81 52.07)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "01291d64-23d6-4856-8639-c9c119f965a0")
+		(property "Sheetname" "Output_Amp_1"
+			(at 257.81 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 257.81 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 257.81 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5632d12b-4e80-45a5-94fb-e021dedd87ed")
+		)
+		(pin "Out" output
+			(at 287.02 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "70df338c-230f-4e26-bdb8-3b71b427fa90")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 119.38)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07e0173a-a5fb-433c-8de0-d1c7c5e3805d")
+		(property "Sheetname" "Input_Attenuator_7"
+			(at 52.07 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 52.07 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 52.07 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ff3b2242-d790-4dd2-959c-262cda9d027e")
+		)
+		(pin "Out" output
+			(at 82.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "47f57f4c-63ec-47ff-b6cc-f431d9cadef3")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 74.93)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "275a6de3-fa3e-4d12-93f1-4f0e2886d9ac")
+		(property "Sheetname" "Input_Attenuator_11"
+			(at 142.24 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 142.24 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 142.24 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8391141f-94ba-4dbb-8c67-e9d2d1828151")
+		)
+		(pin "Out" output
+			(at 172.72 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fce926e3-31fe-492f-845b-211d993f62b2")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 96.52)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30e96c31-384a-457f-9c91-1d7bf222586a")
+		(property "Sheetname" "Input_Attenuator_5"
+			(at 52.07 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 52.07 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 52.07 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2624228d-7b64-4cc5-986d-e6d6455361fc")
+		)
+		(pin "Out" output
+			(at 82.55 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "69cbe126-b9c3-4fd1-ab86-5d7ea70d3256")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 96.52)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31293dca-5e73-4baa-9176-aa587f10c922")
+		(property "Sheetname" "Input_Attenuator_13"
+			(at 142.24 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 142.24 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 142.24 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "185bc88c-6461-4997-9173-4e32d2ccdbf6")
+		)
+		(pin "Out" output
+			(at 172.72 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1bea47db-cfed-4498-b838-28ecb2130384")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 330.2 119.38)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "603be0f7-f1ac-4eee-bc38-5681a6cd529e")
+		(property "Sheetname" "Output_Amp_8"
+			(at 330.2 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 330.2 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 330.2 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "db9f06a8-2941-4a82-bcb5-03a580aad14a")
+		)
+		(pin "Out" output
+			(at 359.41 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "872451af-d96a-47bd-a861-d245bb1b1a8f")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 119.38)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "714f8969-c269-4634-9475-9861026889d2")
+		(property "Sheetname" "Input_Attenuator_15"
+			(at 142.24 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 142.24 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 142.24 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2c8fa1fe-32fd-4181-96b1-463a3b6ef2f9")
+		)
+		(pin "Out" output
+			(at 172.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "de1b1b09-8882-4027-a492-a491cdbf29aa")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 330.2 74.93)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75adf87e-21eb-4176-b65c-10ac7b837417")
+		(property "Sheetname" "Output_Amp_6"
+			(at 330.2 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 330.2 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 330.2 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "27fcf851-df6e-4354-9ed2-03ebc08c0979")
+		)
+		(pin "Out" output
+			(at 359.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "271d9df7-b73b-4482-b4c0-43c9430f8e26")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 257.81 96.52)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b75cb6d-a779-4360-bde0-67591a84517a")
+		(property "Sheetname" "Output_Amp_3"
+			(at 257.81 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 257.81 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 257.81 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1ea781e9-fd09-48b4-876b-08bc0b34930a")
+		)
+		(pin "Out" output
+			(at 287.02 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "18855910-7a93-4720-a673-d312bec412bc")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 257.81 74.93)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d3ccede-293c-48f0-89e8-8b56a5e3c45a")
+		(property "Sheetname" "Output_Amp_2"
+			(at 257.81 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 257.81 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 257.81 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "13cc54c7-3295-425d-9e9c-25770cb00d30")
+		)
+		(pin "Out" output
+			(at 287.02 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3e16757d-ae40-49ee-8a71-b0ecb9fcda5d")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 74.93)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9994fe48-9646-465e-a58a-318529bd507a")
+		(property "Sheetname" "Input_Attenuator_3"
+			(at 52.07 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 52.07 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 52.07 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7ba8ee3e-e14d-4a7a-b9e6-bc574f2ed973")
+		)
+		(pin "Out" output
+			(at 82.55 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5f6c6bd4-21b0-400f-92ab-c6e39c09eff2")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 330.2 96.52)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a1834ac3-3d1e-41ad-b108-1b1275d3bb5f")
+		(property "Sheetname" "Output_Amp_7"
+			(at 330.2 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 330.2 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 330.2 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9608c0db-6e3a-403f-80af-951bfd1637e6")
+		)
+		(pin "Out" output
+			(at 359.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "501c6f4f-042e-4ed1-b94f-14a01184e5b9")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 330.2 52.07)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0ed7c63-f6c9-44a2-b85c-77807d3aebea")
+		(property "Sheetname" "Output_Amp_5"
+			(at 330.2 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 330.2 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 330.2 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3c78730e-cc12-4df6-96da-e5eddcc5591f")
+		)
+		(pin "Out" output
+			(at 359.41 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "585d8f09-80fd-4f25-8563-f515b0328c87")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 52.07)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f78616cc-28e9-448f-b371-031c4e704b59")
+		(property "Sheetname" "Input_Attenuator_1"
+			(at 52.07 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 52.07 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 52.07 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3db3b459-aea6-419e-b218-5cbe9c7d7128")
+		)
+		(pin "Out" output
+			(at 82.55 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "68eec20c-4fed-4134-996d-228e2fad2844")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 257.81 119.38)
+		(size 29.21 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f886b8e9-5d16-40a1-a16f-f036aa39aca4")
+		(property "Sheetname" "Output_Amp_4"
+			(at 257.81 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Amp.kicad_sch"
+			(at 257.81 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 257.81 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4b4a8df8-1d3d-41f9-a66b-19ee4c05cd4f")
+		)
+		(pin "Out" output
+			(at 287.02 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "60db1cd8-56c6-4fec-ae66-2c0205bb9c17")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 52.07)
+		(size 30.48 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f9ecf2da-7d6c-44be-9e69-6fe84bf0a529")
+		(property "Sheetname" "Input_Attenuator_9"
+			(at 142.24 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input_Attenuator.kicad_sch"
+			(at 142.24 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "In" input
+			(at 142.24 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a2cffa5f-0749-43ba-a6fa-a6d5849cd6c3")
+		)
+		(pin "Out" output
+			(at 172.72 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "600dee09-b1b8-443b-bea4-2c54ed8bdd94")
+		)
+		(instances
+			(project "Loom_AK4619"
+				(path "/3ac54b92-3728-49be-9412-cc6fd82c635a/3a3df789-fd30-40b0-ba03-bd98346ceecd"
+					(page "11")
+				)
+			)
+		)
+	)
+)
