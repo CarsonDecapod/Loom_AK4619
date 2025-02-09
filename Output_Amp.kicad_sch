@@ -907,7 +907,6 @@
 	(hierarchical_label "In"
 		(shape input)
 		(at 167.64 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -919,7 +918,6 @@
 	(hierarchical_label "Out"
 		(shape output)
 		(at 218.44 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -991,6 +989,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 210.82 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C21190"
 			(at 210.82 128.27 0)
 			(effects
 				(font
@@ -1096,6 +1103,15 @@
 		)
 		(property "MPN" "OPA1679"
 			(at 199.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2057264"
+			(at 193.04 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1245,6 +1261,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 194.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25808"
 			(at 194.31 128.27 0)
 			(effects
 				(font
@@ -1463,6 +1488,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 176.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C4184"
 			(at 176.53 128.27 0)
 			(effects
 				(font
